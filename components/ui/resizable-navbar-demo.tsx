@@ -79,7 +79,7 @@ export default function NavbarDemo() {
                 variant="primary"
                 className="w-full"
               >
-               
+               Demo
               </NavbarButton>
             </div>
           </MobileNavMenu>
