@@ -79,7 +79,6 @@ export default function NavbarDemo() {
                 variant="primary"
                 className="w-full"
               >
-                  call
               </NavbarButton>
             </div>
           </MobileNavMenu>
